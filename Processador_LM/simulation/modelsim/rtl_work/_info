@@ -1,0 +1,314 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/simulation/modelsim
+Ealu
+Z1 w1741301215
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/ALU.vhd
+Z6 FC:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/ALU.vhd
+l0
+L24
+VSQ@7Sg6b8g^F`WI^_lm2B1
+!s100 SY9hJNOZ:8dMe5N0Kc[D70
+Z7 OV;C;10.5b;63
+31
+Z8 !s110 1741646567
+!i10b 1
+Z9 !s108 1741646567.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/ALU.vhd|
+Z11 !s107 C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/ALU.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Abehavior
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 SQ@7Sg6b8g^F`WI^_lm2B1
+l63
+L34
+VWm04bbU7Dh2clCUZH=^kI2
+!s100 nXYkH?nFOGD>69NfPkI9Q0
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ebanco_registradores
+Z14 w1741301246
+R2
+R3
+R4
+R0
+Z15 8C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/BANCO_REGISTRADORES.vhd
+Z16 FC:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/BANCO_REGISTRADORES.vhd
+l0
+L5
+VJAnWT<4B7UKMCoAh7bFRW3
+!s100 QVU^;^do4PM6=@TBI`n8d0
+R7
+31
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/BANCO_REGISTRADORES.vhd|
+Z18 !s107 C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/BANCO_REGISTRADORES.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+R4
+DEx4 work 19 banco_registradores 0 22 JAnWT<4B7UKMCoAh7bFRW3
+l17
+L14
+VaM]iRhVFGJVbdjAiA7YMF0
+!s100 BT<jRFUX[NS]Z[]Q;B<Oo2
+R7
+31
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Ebranch_helper
+Z19 w1741301273
+R2
+R3
+R4
+R0
+Z20 8C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/BRANCH_HELPER.vhd
+Z21 FC:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/BRANCH_HELPER.vhd
+l0
+L5
+VP@0DK3:<E6XX_XhEPbj:51
+!s100 LT40`VPV`G9Pbz^^kn]@I0
+R7
+31
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-93|-work|work|C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/BRANCH_HELPER.vhd|
+Z23 !s107 C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/BRANCH_HELPER.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+R4
+DEx4 work 13 branch_helper 0 22 P@0DK3:<E6XX_XhEPbj:51
+l13
+L12
+Vd3GU]WJlEBje7WD7Il5nL3
+!s100 _1NR8zVd5>@mW6:O5Xcgd0
+R7
+31
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Econtador_sincrono
+Z24 w1741301302
+Z25 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z26 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R3
+R4
+R0
+Z27 8C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/CONTADOR_SINCRONO.vhd
+Z28 FC:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/CONTADOR_SINCRONO.vhd
+l0
+L5
+Vaz_9BQKEJLjHD370i6b1S1
+!s100 7jL2[i]50XnXlA?kN>RKL1
+R7
+31
+R8
+!i10b 1
+R9
+Z29 !s90 -reportprogress|300|-93|-work|work|C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/CONTADOR_SINCRONO.vhd|
+Z30 !s107 C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/CONTADOR_SINCRONO.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R25
+R26
+R3
+R4
+DEx4 work 17 contador_sincrono 0 22 az_9BQKEJLjHD370i6b1S1
+l14
+L13
+VKO]o^Wb70@8WWV]MhT[;R1
+!s100 U4HNgo1FhT_Of9Dljl:452
+R7
+31
+R8
+!i10b 1
+R9
+R29
+R30
+!i113 1
+R12
+R13
+Ediv_instrucao
+Z31 w1741301315
+R3
+R4
+R0
+Z32 8C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/DIV_INSTRUCAO.vhd
+Z33 FC:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/DIV_INSTRUCAO.vhd
+l0
+L4
+VGh5nFKN_OOgPV7mPYzSn`1
+!s100 Q@_T3aCoXnPd[U3=QZN>W0
+R7
+31
+R8
+!i10b 1
+R9
+Z34 !s90 -reportprogress|300|-93|-work|work|C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/DIV_INSTRUCAO.vhd|
+Z35 !s107 C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/DIV_INSTRUCAO.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R3
+R4
+DEx4 work 13 div_instrucao 0 22 Gh5nFKN_OOgPV7mPYzSn`1
+l13
+L12
+V40Ob8J:zgo7L0CiKK:QIF0
+!s100 zUIm@0K4UM=YAQg?M@mS:3
+R7
+31
+R8
+!i10b 1
+R9
+R34
+R35
+!i113 1
+R12
+R13
+Eextensor_2x8
+Z36 w1741301330
+R3
+R4
+R0
+Z37 8C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/EXTENSOR_2X8.vhd
+Z38 FC:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/EXTENSOR_2X8.vhd
+l0
+L4
+VX>G<N`z>BE1PlU?[[zJCd2
+!s100 i_4h_7[I3]JF?V[o4a@8<2
+R7
+31
+R8
+!i10b 1
+R9
+Z39 !s90 -reportprogress|300|-93|-work|work|C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/EXTENSOR_2X8.vhd|
+Z40 !s107 C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/EXTENSOR_2X8.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R3
+R4
+DEx4 work 12 extensor_2x8 0 22 X>G<N`z>BE1PlU?[[zJCd2
+l12
+L11
+VbzE;H:BKgO`MdKH:jLP^U0
+!s100 :XY0I<;`hmRkH1R<<LgAD3
+R7
+31
+R8
+!i10b 1
+R9
+R39
+R40
+!i113 1
+R12
+R13
+Eextensor_4x8
+Z41 w1741301352
+R3
+R4
+R0
+Z42 8C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/EXTENSOR_4X8.vhd
+Z43 FC:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/EXTENSOR_4X8.vhd
+l0
+L4
+VH7U<`CTiR8^cf0a7iRET_0
+!s100 =FGmJf];VcMlIWkXhS^O]2
+R7
+31
+R8
+!i10b 1
+R9
+Z44 !s90 -reportprogress|300|-93|-work|work|C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/EXTENSOR_4X8.vhd|
+Z45 !s107 C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/EXTENSOR_4X8.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R3
+R4
+DEx4 work 12 extensor_4x8 0 22 H7U<`CTiR8^cf0a7iRET_0
+l12
+L11
+V47]EM7_2Od1_^JS7XhW>71
+!s100 4d;_AUXe8:H_kLgzK4EPk3
+R7
+31
+R8
+!i10b 1
+R9
+R44
+R45
+!i113 1
+R12
+R13
+Emux_2x1
+w1741301376
+R3
+R4
+R0
+8C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/MUX_2X1.vhd
+FC:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/MUX_2X1.vhd
+l0
+L4
+V>i`aPh^akzlKfnkb6MYkU2
+!s100 N]FG7L_2;a4NK6UcZbALb1
+R7
+31
+R8
+!i10b 1
+R9
+!s90 -reportprogress|300|-93|-work|work|C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/MUX_2X1.vhd|
+!s107 C:/Users/marcus/Documents/UFRR/disciplinas/AOC 2024-2025/Projeto final/Processador_LM/MUX_2X1.vhd|
+!i113 1
+R12
+R13
