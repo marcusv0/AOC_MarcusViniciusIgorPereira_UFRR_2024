@@ -1,22 +1,3 @@
------------------------------------------------------------
--- COMPONENTE: ALU
--- DESCRIÇÃO: 
---     RESPONSÁVEL POR EXECUTAR AS INSTRUÇÕES:
---		  ------------------------
---      | CODIGO | NOME | TIPO |
---      |--------|------|------|
---      | 0000   | ADD	|  R   |
--- 	| 0001   | ADDI	|  I   |
--- 	| 0010   | SUB	|  R   |
--- 	| 0011   | SUBI |  I   |
--- 	| 0100   | LW	|  I   |
--- 	| 0101   | SW	|  I   |
--- 	| 0110   | LI	|  I   |
--- 	| 0111   | BEQ	|  J   |
--- 	| 1000   | IF	|  J   |
--- 	| 1001   | J	|  J   |
------------------------------------------------------------
-
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
 USE IEEE.NUMERIC_STD.ALL;
